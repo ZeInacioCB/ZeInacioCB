@@ -43,8 +43,8 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
     </a>
-    <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="60" height="60"/>
+    <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer" style="background-color:green;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="60" height="60" />
     </a>
     <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="60" height="60"/>
